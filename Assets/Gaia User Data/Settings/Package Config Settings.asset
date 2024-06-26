@@ -12,4 +12,28 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ec960e7dee79fb4495593dba6bc4cba, type: 3}
   m_Name: Package Config Settings
   m_EditorClassIdentifier: 
-  m_pWPackageConfigs: []
+  m_pWPackageConfigs:
+  - m_packageID: Gaia
+    m_lastAction: 4
+    m_majorVersion: 4
+    m_minorVersion: 0
+    m_patchVersion: 8
+    m_installTimeStamp: 1719395338078
+  - m_packageID: AssetSamplesSyntyStudios
+    m_lastAction: 3
+    m_majorVersion: 4
+    m_minorVersion: 0
+    m_patchVersion: 8
+    m_installTimeStamp: 0
+  - m_packageID: Stamps
+    m_lastAction: 4
+    m_majorVersion: 4
+    m_minorVersion: 0
+    m_patchVersion: 8
+    m_installTimeStamp: 1719395366536
+  - m_packageID: GaiaWater
+    m_lastAction: 3
+    m_majorVersion: 4
+    m_minorVersion: 0
+    m_patchVersion: 8
+    m_installTimeStamp: 0

@@ -15,7 +15,7 @@ MonoBehaviour:
   m_ID: Stamps
   m_displayName: Stamps
   m_category: 0
-  m_status: 1
+  m_status: 2
   m_installedSizeMB: 449.11514
   m_packageSizeMB: 411.55698
   m_unityPackage: {fileID: 102900000, guid: be28de31706cfbc439fb7c1325bd060c, type: 3}

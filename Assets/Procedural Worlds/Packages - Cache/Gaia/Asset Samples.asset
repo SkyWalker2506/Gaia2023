@@ -27,5 +27,5 @@ MonoBehaviour:
   m_containsGaiaLayers: 1
   m_containsRPMaterials: 1
   m_defaultAction: 4
-  m_currentAction: 4
+  m_currentAction: 0
   m_installOrder: 20

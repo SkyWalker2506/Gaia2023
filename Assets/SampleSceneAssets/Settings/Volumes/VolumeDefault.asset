@@ -367,9 +367,6 @@ MonoBehaviour:
   aerosolAnisotropy:
     m_OverrideState: 1
     m_Value: 0
-  numberOfBounces:
-    m_OverrideState: 1
-    m_Value: 3
   groundTint:
     m_OverrideState: 1
     m_Value: {r: 0.4, g: 0.25, b: 0.15, a: 1}
@@ -412,6 +409,9 @@ MonoBehaviour:
   horizonZenithShift:
     m_OverrideState: 1
     m_Value: 0
+  numberOfBounces:
+    m_OverrideState: 1
+    m_Value: 3
   m_SkyVersion: 2
   m_ObsoleteEarthPreset:
     m_OverrideState: 1
@@ -685,6 +685,7 @@ MonoBehaviour:
     - {fileID: 11400000, guid: 2384dbf2c1c420f45a792fbc315fbfb1, type: 2}
     - {fileID: 11400000, guid: 404820c4cf36ad944862fa59c56064f0, type: 2}
     - {fileID: 11400000, guid: 5a9a2dc462c7bde4f86d0615a19c2c72, type: 2}
+    - {fileID: 11400000, guid: 59c6e3f7660e60048a00ea00dc385d0d, type: 2}
 --- !u!114 &-2927502237476650339
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -2506,6 +2507,9 @@ MonoBehaviour:
   tilingParameters:
     m_OverrideState: 1
     m_Value: {x: 1, y: 1, z: 0, w: 0}
+  seedMode:
+    m_OverrideState: 0
+    m_Value: 1
 --- !u!114 &8049981929359091865
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -2589,6 +2593,7 @@ MonoBehaviour:
   m_Name: HDShadowSettings
   m_EditorClassIdentifier: 
   active: 1
+  interCascadeBorders: 1
   maxShadowDistance:
     m_OverrideState: 1
     m_Value: 500
