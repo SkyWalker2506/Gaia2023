@@ -15,8 +15,8 @@ MonoBehaviour:
   m_ID: AssetSamples
   m_displayName: Asset Samples
   m_category: 1
-  m_status: 1
-  m_installedSizeMB: 560.5665
+  m_status: 2
+  m_installedSizeMB: 560.5713
   m_packageSizeMB: 487.67993
   m_unityPackage: {fileID: 102900000, guid: d21773d5009fa0c4b9f67f6b863c5502, type: 3}
   m_installFolder: Asset Samples
@@ -27,5 +27,5 @@ MonoBehaviour:
   m_containsGaiaLayers: 1
   m_containsRPMaterials: 1
   m_defaultAction: 4
-  m_currentAction: 4
+  m_currentAction: 0
   m_installOrder: 20

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4990df973f6642d45bb356f4e0c23a87, type: 3}
+  m_Name: Controller Settings
+  m_EditorClassIdentifier: 
+  m_flyCamPrefab: {fileID: 5486405323742536537, guid: 7e11dd66a9f2e874bbdbcbbb2240df5b,
+    type: 3}
+  m_firstPersonControllerPrefab: {fileID: 7094977340588366727, guid: 035bf1ba97d19214580cfe6f5a29fdc3,
+    type: 3}
+  m_thirdPersonControllerPrefab: {fileID: 8047161636021232021, guid: c708a3b79cd542b42bbfedb17e213bc1,
+    type: 3}
