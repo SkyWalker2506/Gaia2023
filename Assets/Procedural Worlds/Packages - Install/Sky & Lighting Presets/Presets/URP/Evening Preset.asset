@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 051f5d3ab27227e41966d39eedb6f66a, type: 3}
+  m_Name: Evening Preset
+  m_EditorClassIdentifier: 
+  m_displayName: Evening
+  m_directionalLightPrefab: {fileID: 6742962056486808044, guid: 9f517047c605d0a4ca2c185613553ef2,
+    type: 3}
+  m_globalPostProcessingPrefab: {fileID: 1263252020747105567, guid: 5ece283f3cd214b40b18727ae83c4bd7,
+    type: 3}
+  m_gppVolumeProfile: {fileID: 11400000, guid: ebf6808a9760bd04b956d636ac2feb62, type: 2}
+  m_environment: {fileID: 11400000, guid: 539d357e150e68842a9c1a0b984f05f7, type: 2}

@@ -15,7 +15,7 @@ MonoBehaviour:
   m_ID: AssetSamplesSyntyStudios
   m_displayName: Asset Samples - Synty Studios
   m_category: 1
-  m_status: 3
+  m_status: 1
   m_installedSizeMB: 8.187142
   m_packageSizeMB: 2.2914743
   m_unityPackage: {fileID: 102900000, guid: 868cb952663ead34caa387092b4ebd81, type: 3}
@@ -23,7 +23,7 @@ MonoBehaviour:
   m_packageInfo: Contains a few low-poly sample assets from Synty Studios and Gaia
     Biome and GeNa spawner configurations. Can be used for experiencing low-poly
     art styles with Gaia.
-  m_updateAvailable: 0
+  m_updateAvailable: 1
   m_containsGaiaBiomes: 1
   m_containsGaiaLayers: 1
   m_containsRPMaterials: 1

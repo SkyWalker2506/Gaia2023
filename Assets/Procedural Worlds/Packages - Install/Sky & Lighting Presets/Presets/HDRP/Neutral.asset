@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f41dd2aec57f59b4fab4836a17950648, type: 3}
+  m_Name: Neutral
+  m_EditorClassIdentifier: 
+  m_displayName: Neutral
+  m_directionalLightPrefab: {fileID: 1298547381096336811, guid: 4fdff2020e998274da8a63c809b08d60, type: 3}
+  m_environmentPrefab: {fileID: 8024716775609885265, guid: c607577c7c0cf3848b1d5ba7d7465d9e, type: 3}
+  m_globalPostProcessingPrefab: {fileID: 387066913602639306, guid: 5fae789223077524c8c2b545b9de44e5, type: 3}
+  m_worldDensityPrefab: {fileID: 7222457244072180921, guid: 861349be356885a46a3a1aa467d80a58, type: 3}

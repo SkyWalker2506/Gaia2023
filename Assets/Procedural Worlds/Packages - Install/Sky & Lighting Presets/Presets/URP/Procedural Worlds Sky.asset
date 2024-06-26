@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 051f5d3ab27227e41966d39eedb6f66a, type: 3}
+  m_Name: Procedural Worlds Sky
+  m_EditorClassIdentifier: 
+  m_displayName: Procedural Worlds Sky
+  m_directionalLightPrefab: {fileID: 934439957095919700, guid: b0fe11a9d93b20747a3df5d4190aa2c0,
+    type: 3}
+  m_globalPostProcessingPrefab: {fileID: 8328699250789205053, guid: d033e409040777249bf7ff6539b294aa,
+    type: 3}
+  m_environment: {fileID: 11400000, guid: bb61ef50611f17643a0c0c7d1a029f45, type: 2}

@@ -17,7 +17,7 @@ MonoBehaviour:
   m_category: 2
   m_status: 2
   m_installedSizeMB: 91.04286
-  m_packageSizeMB: 73.787
+  m_packageSizeMB: 73.81004
   m_unityPackage: {fileID: 102900000, guid: f4f71aa0bc8c17f4ba172041f33c91a0, type: 3}
   m_installFolder: Procedural Worlds Sky
   m_packageInfo: Adds a dynamic sky system with layered clouds, time of day and weather

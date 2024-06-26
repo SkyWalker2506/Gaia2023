@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f41dd2aec57f59b4fab4836a17950648, type: 3}
+  m_Name: Dynamic - Morning
+  m_EditorClassIdentifier: 
+  m_displayName: Dynamic - Morning
+  m_directionalLightPrefab: {fileID: 3924688452241285973, guid: 37621c054f97fcb4494327c4aed272ca,
+    type: 3}
+  m_environmentPrefab: {fileID: 4260441938016434323, guid: 04b19aa94b26aba4da36b175b77227f0,
+    type: 3}
+  m_globalPostProcessingPrefab: {fileID: 1206006674580164923, guid: f814fefafc2c9c14d83f9a2f5f584fd5,
+    type: 3}
+  m_worldDensityPrefab: {fileID: 3559189569605061078, guid: d08cf34d5a70374458ab54f5b781fc62,
+    type: 3}
+  m_envVolumeProfile: {fileID: 11400000, guid: cbdab75dcb006ba448755e992c158f3c, type: 2}
+  m_gppVolumeProfile: {fileID: 11400000, guid: c841d7edd9d09b94aad92ac47d1d4700, type: 2}

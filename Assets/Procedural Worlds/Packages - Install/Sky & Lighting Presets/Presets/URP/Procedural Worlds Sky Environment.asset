@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dccf793948d38740a1bc84e7a7e86e5, type: 3}
+  m_Name: Procedural Worlds Sky Environment
+  m_EditorClassIdentifier: 
+  m_skyBoxMaterial: {fileID: 2100000, guid: 41c9f2720caf413419cf260f4ea2b38f, type: 2}
+  m_realtimeShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
+  m_ambientMode: 1
+  m_skyColor: {r: 0.494566, g: 0.60516655, b: 0.8623207, a: 0.7545395}
+  m_equatorColor: {r: 0.5274702, g: 0.6324507, b: 0.6872161, a: 0.7545395}
+  m_groundColor: {r: 0.75341785, g: 0.54168504, b: 0.4602493, a: 0.7545395}
+  m_fogEnabled: 1
+  m_fogColor: {r: 0.83434516, g: 0.94877917, b: 0.9941177, a: 1}
+  m_fogMode: 2
+  m_fogDensity: 0.00028084865
+  m_haloTexture: {fileID: 0}
+  m_haloStrength: 0.5
+  m_flareFadeSpeed: 3
+  m_flareStrength: 1
+  m_spotCookie: {fileID: 0}

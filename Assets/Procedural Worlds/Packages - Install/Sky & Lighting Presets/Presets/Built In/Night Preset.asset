@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8287868a1b2444048aca5baaec00f1d3, type: 3}
+  m_Name: Night Preset
+  m_EditorClassIdentifier: 
+  m_displayName: Night
+  m_directionalLightPrefab: {fileID: 5521768142344824172, guid: 8c581e219df33e34982b5506ca63dd19,
+    type: 3}
+  m_globalPostProcessingPrefab: {fileID: 6474615335011282727, guid: c7982ade292402241975aee79d502f64,
+    type: 3}
+  m_globalPostProcessingProfile: {fileID: 11400000, guid: 1d8a7fb1b5c317b4ca0499e227820e25,
+    type: 2}
+  m_environmentBuiltIn: {fileID: 11400000, guid: 880b13ecf909f8841852f05a567092b9,
+    type: 2}

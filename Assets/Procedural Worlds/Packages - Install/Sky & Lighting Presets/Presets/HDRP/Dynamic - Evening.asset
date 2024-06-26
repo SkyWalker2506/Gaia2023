@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f41dd2aec57f59b4fab4836a17950648, type: 3}
+  m_Name: Dynamic - Evening
+  m_EditorClassIdentifier: 
+  m_displayName: Dynamic - Evening
+  m_directionalLightPrefab: {fileID: 1753470482888794690, guid: 16dab0b178580b84fb9347c941f515c2,
+    type: 3}
+  m_environmentPrefab: {fileID: 5800117399073054604, guid: 2de7883f703850c4a89ffe4f7e0b4613,
+    type: 3}
+  m_globalPostProcessingPrefab: {fileID: 6359650629126579831, guid: fc1e688c7afded147bd92bb1b4326db7,
+    type: 3}
+  m_worldDensityPrefab: {fileID: 4048661242504704136, guid: c3b5323eb336c6f4b82d778464f9fc4c,
+    type: 3}
+  m_envVolumeProfile: {fileID: 11400000, guid: 0d8b0a7b887ba474c820b69489a4188d, type: 2}
+  m_gppVolumeProfile: {fileID: 11400000, guid: 98afd415a14328c49b8ddec4e6ba319c, type: 2}

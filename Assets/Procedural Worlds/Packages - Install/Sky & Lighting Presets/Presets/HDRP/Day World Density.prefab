@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2681222368912060636
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8882684533576399929}
+  - component: {fileID: 3566142844443571717}
+  - component: {fileID: 7703006984892734939}
+  m_Layer: 0
+  m_Name: Day World Density
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8882684533576399929
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2681222368912060636}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.28894204, y: 92.538284, z: -128.62785}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: -1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3566142844443571717
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2681222368912060636}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1fbb15bf92b84f40a1eb030765b5afe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parameters:
+    albedo: {r: 1, g: 1, b: 1, a: 1}
+    meanFreePath: 250
+    blendingMode: 1
+    priority: 0
+    anisotropy: 0
+    volumeMask: {fileID: 11700000, guid: 02f66e070a0e38341b8cde018d09a8af, type: 2}
+    textureScrollingSpeed: {x: 0, y: 0, z: 0.05}
+    textureTiling: {x: 1024, y: 1024, z: 1024}
+    positiveFade: {x: 0.0033333334, y: 0.0033333334, z: 0.0033333334}
+    negativeFade: {x: 0.0033333334, y: 0.0033333334, z: 0.0033333334}
+    m_EditorUniformFade: 0.1
+    m_EditorPositiveFade: {x: 0.1, y: 0.1, z: 0.1}
+    m_EditorNegativeFade: {x: 0.1, y: 0.1, z: 0.1}
+    m_EditorAdvancedFade: 0
+    size: {x: 30, y: 30, z: 30}
+    invertFade: 0
+    distanceFadeStart: 10000
+    distanceFadeEnd: 10000
+    textureOffset: {x: 0, y: 0, z: 0}
+    falloffMode: 0
+    maskMode: 0
+    materialMask: {fileID: 0}
+  m_Version: 2
+--- !u!114 &7703006984892734939
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2681222368912060636}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a38dc07e15f569d43953ed83ca412e72, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_mainCamera: {fileID: 0}
+  m_densityVolumes: []
+  m_densityVolumeCheck: {x: 0.4, y: 1}
+  m_densityVolumeBlendTime: 2
+  m_densityVolumeProfile:
+    m_singleScatteringAlbedo: {r: 1, g: 1, b: 1, a: 1}
+    m_fogDistance: 250
+    m_size: {x: 15, y: 15, z: 15}
+    m_blendDistance: 0
+    m_invertBlend: 0
+    m_distanceFadeStart: 10000
+    m_distanceFadeEnd: 10000
+    m_texture: {fileID: 11700000, guid: 02f66e070a0e38341b8cde018d09a8af, type: 2}
+    m_scrollSpeed: {x: 0, y: 0, z: 0.05}
+    m_tiling: {x: 512, y: 512, z: 512}
+    m_resolution: 3
+    m_effectType: 1
+  m_volume: {fileID: 3566142844443571717}
+  m_editorMainCamera: {fileID: 0}

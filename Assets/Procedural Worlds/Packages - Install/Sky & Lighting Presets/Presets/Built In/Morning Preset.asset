@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8287868a1b2444048aca5baaec00f1d3, type: 3}
+  m_Name: Morning Preset
+  m_EditorClassIdentifier: 
+  m_displayName: Morning
+  m_directionalLightPrefab: {fileID: 8479339320276968264, guid: 1b880d7087b448943b13ae597d6cd1b6,
+    type: 3}
+  m_globalPostProcessingPrefab: {fileID: 8318600348839051458, guid: ad4875afb558cd847b3fe643f8d68414,
+    type: 3}
+  m_globalPostProcessingProfile: {fileID: 11400000, guid: 19774c7b570298d45a79f1009fae78d7,
+    type: 2}
+  m_environmentBuiltIn: {fileID: 11400000, guid: 70cc373f1bd6ead4bae115aad0c95228,
+    type: 2}

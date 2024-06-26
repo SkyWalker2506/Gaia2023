@@ -15,14 +15,14 @@ MonoBehaviour:
   m_ID: GaiaWater
   m_displayName: Gaia Water
   m_category: 2
-  m_status: 3
+  m_status: 1
   m_installedSizeMB: 77.09672
   m_packageSizeMB: 35.007393
   m_unityPackage: {fileID: 102900000, guid: 5d72a122265417245ab611129f7da477, type: 3}
   m_installFolder: Gaia Water
   m_packageInfo: A water system that is part of Gaia. Add bodies of water such as
     Oceans and Lakes to your scene. Works in all render pipelines.
-  m_updateAvailable: 0
+  m_updateAvailable: 1
   m_containsGaiaBiomes: 0
   m_containsGaiaLayers: 0
   m_containsRPMaterials: 1

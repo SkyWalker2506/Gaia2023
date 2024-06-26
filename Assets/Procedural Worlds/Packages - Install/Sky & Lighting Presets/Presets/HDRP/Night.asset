@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f41dd2aec57f59b4fab4836a17950648, type: 3}
+  m_Name: Night
+  m_EditorClassIdentifier: 
+  m_displayName: Legacy - Night
+  m_directionalLightPrefab: {fileID: 1095113955818527836, guid: f14b2e9b5dcc4e348a65af2a7efe4f4d,
+    type: 3}
+  m_environmentPrefab: {fileID: 367710538956096321, guid: fe8c49b386ced514491c48073ef8841a,
+    type: 3}
+  m_globalPostProcessingPrefab: {fileID: 4132336889336604458, guid: af557bc192901704ba055d374b8b8f76,
+    type: 3}
+  m_worldDensityPrefab: {fileID: 7157478259961489834, guid: e67d3d12475353440b2a160f3ccb793b,
+    type: 3}
+  m_envVolumeProfile: {fileID: 11400000, guid: 754c9d680b0a8c14191298a69731e08f, type: 2}
+  m_gppVolumeProfile: {fileID: 11400000, guid: bf144f4122add2e4b902a2de725578f8, type: 2}

@@ -15,8 +15,8 @@ MonoBehaviour:
   m_ID: SkyLightingPresets
   m_displayName: Sky & Lighting Presets
   m_category: 2
-  m_status: 1
-  m_installedSizeMB: 249.30275
+  m_status: 2
+  m_installedSizeMB: 249.34053
   m_packageSizeMB: 180.27788
   m_unityPackage: {fileID: 102900000, guid: a1d651ef0455f0849a6d9c4c7faeddff, type: 3}
   m_installFolder: Sky & Lighting Presets

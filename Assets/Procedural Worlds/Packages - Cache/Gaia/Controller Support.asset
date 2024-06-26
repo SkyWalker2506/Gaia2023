@@ -17,16 +17,16 @@ MonoBehaviour:
   m_category: 2
   m_status: 2
   m_installedSizeMB: 0.074780464
-  m_packageSizeMB: 0.013124466
+  m_packageSizeMB: 0.008167267
   m_unityPackage: {fileID: 102900000, guid: 52ffcdfb4b1dfbb41a8293809a157cb4, type: 3}
   m_installFolder: Controller Support
   m_packageInfo: Adds support for Unity's Starter Asset First Person and Third Person
     Controller. Also adds a basic Fly camera and an automated configuration for your
     own, custom character controller.
-  m_updateAvailable: 0
+  m_updateAvailable: 1
   m_containsGaiaBiomes: 0
   m_containsGaiaLayers: 0
   m_containsRPMaterials: 0
   m_defaultAction: 4
-  m_currentAction: 4
+  m_currentAction: 0
   m_installOrder: 30

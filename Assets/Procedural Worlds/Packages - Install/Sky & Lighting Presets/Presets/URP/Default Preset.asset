@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 051f5d3ab27227e41966d39eedb6f66a, type: 3}
+  m_Name: Default Preset
+  m_EditorClassIdentifier: 
+  m_displayName: Default
+  m_directionalLightPrefab: {fileID: 8559960069425654430, guid: eec3288f5f38d054b8f5188a0f512160,
+    type: 3}
+  m_globalPostProcessingPrefab: {fileID: 6792919081265217369, guid: 0e2004d74a65e9849b808af31168002a,
+    type: 3}
+  m_gppVolumeProfile: {fileID: 11400000, guid: 3bdacee8fc897c94ba6e385e79e95ba6, type: 2}
+  m_environment: {fileID: 11400000, guid: 63c3c2d778b4698408bc00d3e63cff89, type: 2}

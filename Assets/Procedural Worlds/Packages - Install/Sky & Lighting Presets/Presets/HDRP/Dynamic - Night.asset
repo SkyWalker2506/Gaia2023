@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f41dd2aec57f59b4fab4836a17950648, type: 3}
+  m_Name: Dynamic - Night
+  m_EditorClassIdentifier: 
+  m_displayName: Dynamic - Night
+  m_directionalLightPrefab: {fileID: 4942211369519211864, guid: 5c2717e7625af694398d282cf82d750c,
+    type: 3}
+  m_environmentPrefab: {fileID: 3973742073828851200, guid: 995e1212bc926f6409b02c8a15679574,
+    type: 3}
+  m_globalPostProcessingPrefab: {fileID: 5049103911030826845, guid: 9e29eaaac10677d48b6341da954c8928,
+    type: 3}
+  m_worldDensityPrefab: {fileID: 4932787590371054497, guid: e2b6b33fe2a3912429230eca7f68bf19,
+    type: 3}
+  m_envVolumeProfile: {fileID: 11400000, guid: 7cbfbf9885da0ba4ea3b27d228e66158, type: 2}
+  m_gppVolumeProfile: {fileID: 11400000, guid: dd902c7c67ba410479b9cf62f74d03b0, type: 2}
