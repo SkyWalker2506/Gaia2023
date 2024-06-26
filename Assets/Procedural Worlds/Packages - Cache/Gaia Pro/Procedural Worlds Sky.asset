@@ -15,8 +15,8 @@ MonoBehaviour:
   m_ID: ProceduralWorldsSky
   m_displayName: Procedural Worlds Sky
   m_category: 2
-  m_status: 1
-  m_installedSizeMB: 91.04273
+  m_status: 2
+  m_installedSizeMB: 91.04286
   m_packageSizeMB: 73.787
   m_unityPackage: {fileID: 102900000, guid: f4f71aa0bc8c17f4ba172041f33c91a0, type: 3}
   m_installFolder: Procedural Worlds Sky
@@ -27,5 +27,5 @@ MonoBehaviour:
   m_containsGaiaLayers: 0
   m_containsRPMaterials: 0
   m_defaultAction: 4
-  m_currentAction: 0
+  m_currentAction: 4
   m_installOrder: 30
