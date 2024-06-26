@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e58a54459d47bd42b8ec7d32e409741, type: 3}
+  m_Name: Asset Samples - Synty Studios
+  m_EditorClassIdentifier: 
+  m_ID: AssetSamplesSyntyStudios
+  m_displayName: Asset Samples - Synty Studios
+  m_category: 1
+  m_status: 1
+  m_installedSizeMB: 8.187142
+  m_packageSizeMB: 2.2914743
+  m_unityPackage: {fileID: 102900000, guid: 868cb952663ead34caa387092b4ebd81, type: 3}
+  m_installFolder: Asset Samples - Synty Studios
+  m_packageInfo: Contains a few low-poly sample assets from Synty Studios and Gaia
+    Biome and GeNa spawner configurations. Can be used for experiencing low-poly
+    art styles with Gaia.
+  m_updateAvailable: 0
+  m_containsGaiaBiomes: 1
+  m_containsGaiaLayers: 1
+  m_containsRPMaterials: 1
+  m_defaultAction: 4
+  m_currentAction: 4
+  m_installOrder: 20

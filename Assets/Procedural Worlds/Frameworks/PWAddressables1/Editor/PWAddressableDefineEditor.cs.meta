@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 02849bc08b2169c47be761e59a509634
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 263149
+  packageName: Gaia Pro 2023 - Terrain & Scene Generator
+  packageVersion: 4.0.8
+  assetPath: Assets/Procedural Worlds/Frameworks/PWAddressables1/Editor/PWAddressableDefineEditor.cs
+  uploadId: 647505

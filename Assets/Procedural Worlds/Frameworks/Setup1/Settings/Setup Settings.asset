@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06920dea424fc5042b18976f5cfed0d6, type: 3}
+  m_Name: Setup Settings
+  m_EditorClassIdentifier: 
+  m_IconWarning: {fileID: 2800000, guid: 878d2074d1d3d344c98418c7dd2263af, type: 3}
+  m_IconOK: {fileID: 2800000, guid: 866e6a35135224d418ab8fd1873d28fc, type: 3}
+  m_IconNoUnityPackage: {fileID: 2800000, guid: f6220985dddbc61409641aad41218c23,
+    type: 3}
+  m_IconNotInstalled: {fileID: 2800000, guid: 753e9f7026744cf46b5fff1cebb9ef71, type: 3}
+  m_IconUpdateAvailable: {fileID: 2800000, guid: 87d72e196dabde042852e43e54d49328,
+    type: 3}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e58a54459d47bd42b8ec7d32e409741, type: 3}
+  m_Name: Sky & Lighting Presets
+  m_EditorClassIdentifier: 
+  m_ID: SkyLightingPresets
+  m_displayName: Sky & Lighting Presets
+  m_category: 2
+  m_status: 1
+  m_installedSizeMB: 249.30275
+  m_packageSizeMB: 180.27788
+  m_unityPackage: {fileID: 102900000, guid: a1d651ef0455f0849a6d9c4c7faeddff, type: 3}
+  m_installFolder: Sky & Lighting Presets
+  m_packageInfo: Allows you to add different sky and lighting presets (e.g. Daytime
+    or Night time lighting) to your scene via the runtime tab in the Gaia Manager.
+  m_updateAvailable: 0
+  m_containsGaiaBiomes: 0
+  m_containsGaiaLayers: 0
+  m_containsRPMaterials: 0
+  m_defaultAction: 4
+  m_currentAction: 4
+  m_installOrder: 30

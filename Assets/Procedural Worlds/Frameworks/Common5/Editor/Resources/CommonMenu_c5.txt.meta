@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7d6a68f6157029846971fd11be9b8b58
+timeCreated: 1603744842
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 263149
+  packageName: Gaia Pro 2023 - Terrain & Scene Generator
+  packageVersion: 4.0.8
+  assetPath: Assets/Procedural Worlds/Frameworks/Common5/Editor/Resources/CommonMenu_c5.txt
+  uploadId: 647505

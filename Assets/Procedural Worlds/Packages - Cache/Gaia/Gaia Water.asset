@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e58a54459d47bd42b8ec7d32e409741, type: 3}
+  m_Name: Gaia Water
+  m_EditorClassIdentifier: 
+  m_ID: GaiaWater
+  m_displayName: Gaia Water
+  m_category: 2
+  m_status: 1
+  m_installedSizeMB: 77.09672
+  m_packageSizeMB: 35.007393
+  m_unityPackage: {fileID: 102900000, guid: 5d72a122265417245ab611129f7da477, type: 3}
+  m_installFolder: Gaia Water
+  m_packageInfo: A water system that is part of Gaia. Add bodies of water such as
+    Oceans and Lakes to your scene. Works in all render pipelines.
+  m_updateAvailable: 0
+  m_containsGaiaBiomes: 0
+  m_containsGaiaLayers: 0
+  m_containsRPMaterials: 1
+  m_defaultAction: 4
+  m_currentAction: 4
+  m_installOrder: 30

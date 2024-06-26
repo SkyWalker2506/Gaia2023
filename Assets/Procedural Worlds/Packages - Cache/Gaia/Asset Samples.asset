@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e58a54459d47bd42b8ec7d32e409741, type: 3}
+  m_Name: Asset Samples
+  m_EditorClassIdentifier: 
+  m_ID: AssetSamples
+  m_displayName: Asset Samples
+  m_category: 1
+  m_status: 1
+  m_installedSizeMB: 560.5665
+  m_packageSizeMB: 487.67993
+  m_unityPackage: {fileID: 102900000, guid: d21773d5009fa0c4b9f67f6b863c5502, type: 3}
+  m_installFolder: Asset Samples
+  m_packageInfo: Contains asset samples from Gaia Pro and other 3rd party publishers
+    to get you started with your first environments with Gaia.
+  m_updateAvailable: 0
+  m_containsGaiaBiomes: 1
+  m_containsGaiaLayers: 1
+  m_containsRPMaterials: 1
+  m_defaultAction: 4
+  m_currentAction: 4
+  m_installOrder: 20

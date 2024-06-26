@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e58a54459d47bd42b8ec7d32e409741, type: 3}
+  m_Name: Procedural Worlds Sky
+  m_EditorClassIdentifier: 
+  m_ID: ProceduralWorldsSky
+  m_displayName: Procedural Worlds Sky
+  m_category: 2
+  m_status: 1
+  m_installedSizeMB: 91.04273
+  m_packageSizeMB: 73.787
+  m_unityPackage: {fileID: 102900000, guid: f4f71aa0bc8c17f4ba172041f33c91a0, type: 3}
+  m_installFolder: Procedural Worlds Sky
+  m_packageInfo: Adds a dynamic sky system with layered clouds, time of day and weather
+    to the scene.
+  m_updateAvailable: 0
+  m_containsGaiaBiomes: 0
+  m_containsGaiaLayers: 0
+  m_containsRPMaterials: 0
+  m_defaultAction: 4
+  m_currentAction: 4
+  m_installOrder: 30

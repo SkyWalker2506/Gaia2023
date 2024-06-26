@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e58a54459d47bd42b8ec7d32e409741, type: 3}
+  m_Name: Stamps
+  m_EditorClassIdentifier: 
+  m_ID: Stamps
+  m_displayName: Stamps
+  m_category: 0
+  m_status: 1
+  m_installedSizeMB: 449.11514
+  m_packageSizeMB: 411.55698
+  m_unityPackage: {fileID: 102900000, guid: be28de31706cfbc439fb7c1325bd060c, type: 3}
+  m_installFolder: Stamps
+  m_packageInfo: Contains Stamp Images for the Gaia Stamper and the Gaia World Designer.
+    This is an important install if you want to change the shape of your terrain
+    - without stamps you cannot create mountains or valleys, etc. unless you add
+    your own stamp images.
+  m_updateAvailable: 0
+  m_containsGaiaBiomes: 0
+  m_containsGaiaLayers: 0
+  m_containsRPMaterials: 0
+  m_defaultAction: 4
+  m_currentAction: 4
+  m_installOrder: 20

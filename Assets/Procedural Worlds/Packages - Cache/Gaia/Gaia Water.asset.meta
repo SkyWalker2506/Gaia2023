@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bbcd432564bd98847a90d40b6c6beb95
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 263149
+  packageName: Gaia Pro 2023 - Terrain & Scene Generator
+  packageVersion: 4.0.8
+  assetPath: Assets/Procedural Worlds/Packages - Cache/Gaia/Gaia Water.asset
+  uploadId: 647505

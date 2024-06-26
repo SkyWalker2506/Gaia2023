@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 796ccf24535dae0458f572c6a23f38cd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 263149
+  packageName: Gaia Pro 2023 - Terrain & Scene Generator
+  packageVersion: 4.0.8
+  assetPath: Assets/Procedural Worlds/Frameworks/PWAddressables1/DemoClient/Prefabs/WorldEntry.prefab
+  uploadId: 647505

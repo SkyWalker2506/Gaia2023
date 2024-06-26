@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d7e03abf7af7ed440bfe9f959b8df12a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 263149
+  packageName: Gaia Pro 2023 - Terrain & Scene Generator
+  packageVersion: 4.0.8
+  assetPath: Assets/Procedural Worlds/Frameworks/Setup1/Scripts/Editor/CinemachineDefine.cs
+  uploadId: 647505

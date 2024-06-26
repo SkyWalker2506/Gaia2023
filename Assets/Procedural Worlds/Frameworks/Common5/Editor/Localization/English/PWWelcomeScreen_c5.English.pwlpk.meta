@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b3cf205efb74ba0468e84c5cb5f5fbf8
+timeCreated: 1603732461
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 263149
+  packageName: Gaia Pro 2023 - Terrain & Scene Generator
+  packageVersion: 4.0.8
+  assetPath: Assets/Procedural Worlds/Frameworks/Common5/Editor/Localization/English/PWWelcomeScreen_c5.English.pwlpk
+  uploadId: 647505

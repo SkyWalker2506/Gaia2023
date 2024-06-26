@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 06d9833d999adff4ab2f95ea032e3a0f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 263149
+  packageName: Gaia Pro 2023 - Terrain & Scene Generator
+  packageVersion: 4.0.8
+  assetPath: Assets/Procedural Worlds/Packages - Cache/Gaia/Sky & Lighting Presets.asset
+  uploadId: 647505
