@@ -37,3 +37,9 @@ MonoBehaviour:
     m_minorVersion: 0
     m_patchVersion: 8
     m_installTimeStamp: 0
+  - m_packageID: AssetSamples
+    m_lastAction: 4
+    m_majorVersion: 4
+    m_minorVersion: 0
+    m_patchVersion: 8
+    m_installTimeStamp: 1719396450887
