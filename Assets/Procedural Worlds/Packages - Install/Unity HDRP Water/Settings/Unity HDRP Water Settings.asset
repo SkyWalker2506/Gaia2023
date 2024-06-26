@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0812a76f9f21a9540a738dad82ab8ba2, type: 3}
+  m_Name: Unity HDRP Water Settings
+  m_EditorClassIdentifier: 
+  m_2022_3_WaterPrefab: {fileID: 6387789090427401474, guid: 3149cc50f05076c4f9a2479888b454c1,
+    type: 3}
+  m_2023_1_WaterPrefab: {fileID: 5356008338438011966, guid: eb7b0328bcbed6445a84e821275c9c2d,
+    type: 3}
+  m_2023_2_WaterPrefab: {fileID: 7005145052337387859, guid: 94c8452faec9bd44fb50908d38e736db,
+    type: 3}

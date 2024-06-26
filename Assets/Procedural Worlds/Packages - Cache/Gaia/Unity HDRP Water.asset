@@ -15,8 +15,8 @@ MonoBehaviour:
   m_ID: UnityHDRPWater
   m_displayName: Unity HDRP Water
   m_category: 2
-  m_status: 1
-  m_installedSizeMB: 0.024127007
+  m_status: 2
+  m_installedSizeMB: 0.030651093
   m_packageSizeMB: 0.006760597
   m_unityPackage: {fileID: 102900000, guid: a3e9f299d1203dd478bbc7786c31ed58, type: 3}
   m_installFolder: Unity HDRP Water
@@ -27,5 +27,5 @@ MonoBehaviour:
   m_containsGaiaLayers: 0
   m_containsRPMaterials: 0
   m_defaultAction: 4
-  m_currentAction: 0
+  m_currentAction: 4
   m_installOrder: 30
