@@ -15,8 +15,8 @@ MonoBehaviour:
   m_ID: GaiaProAssetsandBiomes
   m_displayName: Gaia Pro Assets and Biomes
   m_category: 1
-  m_status: 1
-  m_installedSizeMB: 3663.5708
+  m_status: 2
+  m_installedSizeMB: 3625.9226
   m_packageSizeMB: 3571.7107
   m_unityPackage: {fileID: 102900000, guid: b15c3982b12aae44ead707011a6fe3c8, type: 3}
   m_installFolder: Gaia Pro Assets and Biomes
@@ -27,5 +27,5 @@ MonoBehaviour:
   m_containsGaiaLayers: 1
   m_containsRPMaterials: 1
   m_defaultAction: 4
-  m_currentAction: 4
+  m_currentAction: 0
   m_installOrder: 20

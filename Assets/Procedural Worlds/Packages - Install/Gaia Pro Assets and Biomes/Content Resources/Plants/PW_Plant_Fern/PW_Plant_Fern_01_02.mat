@@ -8,23 +8,23 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: PW_Plant_Fern_01_02
-  m_Shader: {fileID: 4800000, guid: b59fbf1ddafb64aac89ae315fbb65877, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: daef1042b5688b0409a847b1fe6a7ae9, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _ALPHATEST_ON
+  - _DISABLE_DECALS
+  - _DISABLE_SSR_TRANSPARENT
+  - _DOUBLESIDED_ON
   - _PW_SF_COVER_ON
   - _PW_SF_SSS_ON
   - _PW_SF_WIND_ON
   - _PW_SF_WORLDMAP_ON
-  m_InvalidKeywords:
-  - _DISABLE_DECALS
-  - _DISABLE_SSR_TRANSPARENT
-  - _DOUBLESIDED_ON
+  m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 1
-  m_CustomRenderQueue: 2460
+  m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses:
   - TransparentDepthPrepass
@@ -94,17 +94,23 @@ Material:
     - _AlphaToMaskInspectorValue: 0
     - _BlendMode: 0
     - _BumpMapScale: 1
+    - _ConservativeDepthOffsetEnable: 0
     - _CullMode: 0
     - _CullModeForward: 0
     - _Cutoff: 0.33
     - _DepthOffsetEnable: 0
     - _DiffusionProfile: 2.2732565
     - _DoubleSidedEnable: 1
+    - _DoubleSidedGIMode: 0
     - _DoubleSidedNormalMode: 1
     - _DstBlend: 0
+    - _DstBlend2: 0
     - _EnableBlendModePreserveSpecularLighting: 0
     - _EnableFogOnTransparent: 1
+    - _ExcludeFromTUAndAA: 0
     - _Glossiness: 0
+    - _MaterialID: 5
+    - _MaterialTypeMask: 32
     - _Metallic: 0
     - _OpaqueCullMode: 2
     - _PW_Cover: 0
@@ -149,6 +155,7 @@ Material:
     - _PW_WindToggle: 0
     - _PW_WorldMapToggle: 0
     - _PW_WorldMapUVScale: 2048
+    - _PerPixelSorting: 0
     - _RayTracing: 0
     - _ReceivesSSR: 1
     - _ReceivesSSRTransparent: 0
@@ -168,6 +175,7 @@ Material:
     - _StencilWriteMaskMV: 40
     - _SupportDecals: 0
     - _SurfaceType: 0
+    - _TransmissionEnable: 1
     - _TransparentBackfaceEnable: 0
     - _TransparentCullMode: 2
     - _TransparentDepthPostpassEnable: 0
@@ -183,8 +191,7 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 0.53039044, g: 0.659754, b: 0.5019305, a: 1}
-    - _DiffusionProfile_Asset: {r: -9.2396434e+33, g: 2.6337685e-36, b: 2.14897e-38,
-        a: 6.8169325e-31}
+    - _DiffusionProfile_Asset: {r: -9.2396434e+33, g: 2.6337685e-36, b: 2.14897e-38, a: 6.8169325e-31}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 1}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _PW_CoverLayer0Color: {r: 1, g: 1, b: 1, a: 1}
@@ -197,6 +204,7 @@ Material:
     - _PW_WorldMapColorCover1: {r: 1, g: 1, b: 1, a: 1}
     - _PW_WorldMapColorObject: {r: 0.6037736, g: 0.5183983, b: 0.3218227, a: 1}
   m_BuildTextureStacks: []
+  m_AllowLocking: 1
 --- !u!114 &4959173947431976827
 MonoBehaviour:
   m_ObjectHideFlags: 11
