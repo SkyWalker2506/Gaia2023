@@ -22,7 +22,7 @@ MonoBehaviour:
   m_installFolder: Gaia
   m_packageInfo: The core Gaia terrain Editor Application. You need to install this
     if you intend to create and edit terrains.
-  m_updateAvailable: 1
+  m_updateAvailable: 0
   m_containsGaiaBiomes: 0
   m_containsGaiaLayers: 0
   m_containsRPMaterials: 1

@@ -22,7 +22,7 @@ MonoBehaviour:
   m_installFolder: Asset Samples
   m_packageInfo: Contains asset samples from Gaia Pro and other 3rd party publishers
     to get you started with your first environments with Gaia.
-  m_updateAvailable: 1
+  m_updateAvailable: 0
   m_containsGaiaBiomes: 1
   m_containsGaiaLayers: 1
   m_containsRPMaterials: 1

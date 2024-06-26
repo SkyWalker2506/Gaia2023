@@ -23,7 +23,7 @@ MonoBehaviour:
   m_packageInfo: Adds support for Unity's Starter Asset First Person and Third Person
     Controller. Also adds a basic Fly camera and an automated configuration for your
     own, custom character controller.
-  m_updateAvailable: 1
+  m_updateAvailable: 0
   m_containsGaiaBiomes: 0
   m_containsGaiaLayers: 0
   m_containsRPMaterials: 0

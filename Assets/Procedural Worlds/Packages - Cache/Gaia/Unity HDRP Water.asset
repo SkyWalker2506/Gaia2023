@@ -22,10 +22,10 @@ MonoBehaviour:
   m_installFolder: Unity HDRP Water
   m_packageInfo: Uses the Unity HDRP water system to create an ocean at the sea level
     of your scene. Only works in the HD Render Pipeline.
-  m_updateAvailable: 1
+  m_updateAvailable: 0
   m_containsGaiaBiomes: 0
   m_containsGaiaLayers: 0
   m_containsRPMaterials: 0
   m_defaultAction: 4
-  m_currentAction: 4
+  m_currentAction: 0
   m_installOrder: 30
