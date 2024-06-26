@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d7bebd295e9b5e041880e72766d5e1bb
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225272
+  packageName: GTS - Glyph Terrain Shader
+  packageVersion: 1.0.18
+  assetPath: Assets/Procedural Worlds/GTS/Shaders/GTS_UpgradeToURP.unitypackage
+  uploadId: 628397

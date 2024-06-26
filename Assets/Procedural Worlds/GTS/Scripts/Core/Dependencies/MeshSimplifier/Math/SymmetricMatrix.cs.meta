@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: a4da4423534ab144096a0208046bbc73
+timeCreated: 1516802649
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225272
+  packageName: GTS - Glyph Terrain Shader
+  packageVersion: 1.0.18
+  assetPath: Assets/Procedural Worlds/GTS/Scripts/Core/Dependencies/MeshSimplifier/Math/SymmetricMatrix.cs
+  uploadId: 628397

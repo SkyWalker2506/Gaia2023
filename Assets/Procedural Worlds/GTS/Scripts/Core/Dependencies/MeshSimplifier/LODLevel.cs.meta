@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4fe6be35045bd0a40b6cb1c638269240
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225272
+  packageName: GTS - Glyph Terrain Shader
+  packageVersion: 1.0.18
+  assetPath: Assets/Procedural Worlds/GTS/Scripts/Core/Dependencies/MeshSimplifier/LODLevel.cs
+  uploadId: 628397

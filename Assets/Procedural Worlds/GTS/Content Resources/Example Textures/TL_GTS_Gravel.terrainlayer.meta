@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4765243deb13f3c438c97ce4104cac75
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225272
+  packageName: GTS - Glyph Terrain Shader
+  packageVersion: 1.0.18
+  assetPath: Assets/Procedural Worlds/GTS/Content Resources/Example Textures/TL_GTS_Gravel.terrainlayer
+  uploadId: 628397

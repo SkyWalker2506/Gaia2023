@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 59646f446c8558145be223c6e0002478
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225272
+  packageName: GTS - Glyph Terrain Shader
+  packageVersion: 1.0.18
+  assetPath: Assets/Procedural Worlds/GTS/Content Resources/GTS Manager.asset
+  uploadId: 628397

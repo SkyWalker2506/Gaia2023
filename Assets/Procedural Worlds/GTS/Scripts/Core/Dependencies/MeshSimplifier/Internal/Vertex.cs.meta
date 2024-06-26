@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 767e400420db3b84dacbbf474d409192
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225272
+  packageName: GTS - Glyph Terrain Shader
+  packageVersion: 1.0.18
+  assetPath: Assets/Procedural Worlds/GTS/Scripts/Core/Dependencies/MeshSimplifier/Internal/Vertex.cs
+  uploadId: 628397

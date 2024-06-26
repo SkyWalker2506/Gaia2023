@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f75101e4cac844c45875a4946a8d77ac
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225272
+  packageName: GTS - Glyph Terrain Shader
+  packageVersion: 1.0.18
+  assetPath: Assets/Procedural Worlds/GTS/Scripts/Core/Dependencies/MeshSimplifier/license.txt
+  uploadId: 628397

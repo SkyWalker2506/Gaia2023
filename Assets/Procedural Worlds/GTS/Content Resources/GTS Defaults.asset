@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ffae90fb92e447285d19664cb5d58ec, type: 3}
+  m_Name: GTS Defaults
+  m_EditorClassIdentifier: 
+  debugEnabled: 1
+  builtInMaterial: {fileID: 2100000, guid: db6539e8b5012054eb8b6cf730fd32ef, type: 2}
+  urpMaterial: {fileID: 2100000, guid: 66ef0c734b982f74b90621669f3264d8, type: 2}
+  hdrpMaterial: {fileID: 2100000, guid: fe90255bc7d7e444dac4f419958233a9, type: 2}
+  urpPackage: {fileID: 102900000, guid: d7bebd295e9b5e041880e72766d5e1bb, type: 3}
+  hdrpPackage: {fileID: 102900000, guid: 717f49ef100d2504290ae7583418e453, type: 3}
+  hdrp2022Package: {fileID: 102900000, guid: 311897b45e7804b4bb45690039063fbd, type: 3}
+  hdrp2022_3_Package: {fileID: 102900000, guid: 39b61717c2166f7468a81205a963fccf, type: 3}
+  hdrp2023_1_Package: {fileID: 102900000, guid: be78d02031f4c2a48b23485ba081bdfc, type: 3}
+  documentationPDF: {fileID: 102900000, guid: 63718ea9e0ccfa3489efba3538a95eb6, type: 3}
+  shaderFolder: {fileID: 102900000, guid: 4251fa9ac70423348b000cb4da0fa80f, type: 3}

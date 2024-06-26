@@ -87,8 +87,8 @@ TextureImporter:
   assetBundleVariant: 
 AssetOrigin:
   serializedVersion: 1
-  productId: 263149
-  packageName: Gaia Pro 2023 - Terrain & Scene Generator
-  packageVersion: 4.0.8
+  productId: 225272
+  packageName: GTS - Glyph Terrain Shader
+  packageVersion: 1.0.18
   assetPath: Assets/Procedural Worlds/Frameworks/Common5/Editor/Resources/pwtabsBorderp_c5.png
-  uploadId: 647505
+  uploadId: 628397

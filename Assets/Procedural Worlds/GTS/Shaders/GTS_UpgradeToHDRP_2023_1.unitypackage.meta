@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: be78d02031f4c2a48b23485ba081bdfc
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225272
+  packageName: GTS - Glyph Terrain Shader
+  packageVersion: 1.0.18
+  assetPath: Assets/Procedural Worlds/GTS/Shaders/GTS_UpgradeToHDRP_2023_1.unitypackage
+  uploadId: 628397

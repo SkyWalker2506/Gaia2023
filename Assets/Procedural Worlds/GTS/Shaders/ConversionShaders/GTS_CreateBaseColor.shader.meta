@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 21c6b222b372e4e4aaf4451868c317ac
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225272
+  packageName: GTS - Glyph Terrain Shader
+  packageVersion: 1.0.18
+  assetPath: Assets/Procedural Worlds/GTS/Shaders/ConversionShaders/GTS_CreateBaseColor.shader
+  uploadId: 628397

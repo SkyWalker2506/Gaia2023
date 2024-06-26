@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 63718ea9e0ccfa3489efba3538a95eb6
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225272
+  packageName: GTS - Glyph Terrain Shader
+  packageVersion: 1.0.18
+  assetPath: Assets/Procedural Worlds/GTS/Documentation/GTS Documentation.pdf
+  uploadId: 628397

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 66ef0c734b982f74b90621669f3264d8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225272
+  packageName: GTS - Glyph Terrain Shader
+  packageVersion: 1.0.18
+  assetPath: Assets/Procedural Worlds/GTS/Content Resources/Materials/Default-Terrain-URP.mat
+  uploadId: 628397

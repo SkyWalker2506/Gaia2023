@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fb5ff6eaa6c2bc34ebe083c978e128eb
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225272
+  packageName: GTS - Glyph Terrain Shader
+  packageVersion: 1.0.18
+  assetPath: Assets/Procedural Worlds/GTS/Shaders/GTS_TerrainInstancing.hlsl
+  uploadId: 628397

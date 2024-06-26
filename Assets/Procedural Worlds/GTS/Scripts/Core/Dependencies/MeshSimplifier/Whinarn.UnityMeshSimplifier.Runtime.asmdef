@@ -1,0 +1,14 @@
+{
+    "name": "ProceduralWorlds.GTS.MeshSimplifier",
+    "rootNamespace": "ProceduralWorlds.GTS.MeshSimplifier",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
