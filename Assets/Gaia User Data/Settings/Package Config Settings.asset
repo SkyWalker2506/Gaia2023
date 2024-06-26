@@ -49,3 +49,9 @@ MonoBehaviour:
     m_minorVersion: 0
     m_patchVersion: 8
     m_installTimeStamp: 1719396783796
+  - m_packageID: ProceduralWorldsSky
+    m_lastAction: 4
+    m_majorVersion: 4
+    m_minorVersion: 0
+    m_patchVersion: 8
+    m_installTimeStamp: 1719396874540
