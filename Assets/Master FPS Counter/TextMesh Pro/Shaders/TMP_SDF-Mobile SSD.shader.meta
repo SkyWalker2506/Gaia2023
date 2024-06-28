@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c8d12adcee749c344b8117cf7c7eb912
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217387
+  packageName: Master FPS Counter
+  packageVersion: 2.0
+  assetPath: Assets/Master FPS Counter/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader
+  uploadId: 648914

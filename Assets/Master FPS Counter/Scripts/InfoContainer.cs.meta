@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5d93580c10055554d96534e90498d82b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217387
+  packageName: Master FPS Counter
+  packageVersion: 2.0
+  assetPath: Assets/Master FPS Counter/Scripts/InfoContainer.cs
+  uploadId: 648914

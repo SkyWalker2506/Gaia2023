@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f952c082cb03451daed3ee968ac6c63e
+timeCreated: 1432805430
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217387
+  packageName: Master FPS Counter
+  packageVersion: 2.0
+  assetPath: Assets/Master FPS Counter/TextMesh Pro/Resources/Style Sheets/Default
+    Style Sheet.asset
+  uploadId: 648914

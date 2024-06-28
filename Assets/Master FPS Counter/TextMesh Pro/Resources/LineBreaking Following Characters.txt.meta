@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fade42e8bc714b018fac513c043d323b
+timeCreated: 1425440388
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217387
+  packageName: Master FPS Counter
+  packageVersion: 2.0
+  assetPath: Assets/Master FPS Counter/TextMesh Pro/Resources/LineBreaking Following
+    Characters.txt
+  uploadId: 648914

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 272d24cf77ea64c4981ea2d2faaf2cf2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217387
+  packageName: Master FPS Counter
+  packageVersion: 2.0
+  assetPath: Assets/Master FPS Counter/Scripts/Editor/BasicFPSCounterEditor.cs
+  uploadId: 648914

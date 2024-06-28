@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b5a1173147d28e543bfca535e9636d7c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217387
+  packageName: Master FPS Counter
+  packageVersion: 2.0
+  assetPath: Assets/Master FPS Counter/Prefaps/Basic FPS Counter.prefab
+  uploadId: 648914
