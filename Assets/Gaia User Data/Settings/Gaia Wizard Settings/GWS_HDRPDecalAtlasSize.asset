@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cec2e6f3f374b04e9cc5a6225f47fa0, type: 3}
+  m_Name: GWS_HDRPDecalAtlasSize
+  m_EditorClassIdentifier: 
+  m_foldedOut: 0
+  m_wasFixed: 1
+  m_canAutoFix: 1
+  m_ignored: 0
+  m_intValueDoesNotMatchMessage: The decal atlas is sized smaller than 4096 x 4096
+    pixels. This can lead to error messages from appearing early when working with
+    decals.
+  m_intTargetValue: 4096
+  m_originalValue: 2048
+  m_checkType: 4
+  m_originalWidth: 2048
+  m_originalHeight: 2048

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e93b8ca1e8babab40934efc7b7fdd0b0, type: 3}
+  m_Name: GWS_HDRPMaxPlanarReflections
+  m_EditorClassIdentifier: 
+  m_foldedOut: 0
+  m_wasFixed: 1
+  m_canAutoFix: 1
+  m_ignored: 0
+  m_intValueDoesNotMatchMessage: The probe cache size is set smaller than 64 planar
+    reflections in the HDRP Asset. This can lead to error messages from appearing
+    early when working with planar reflections in the scene.
+  m_intTargetValue: 64
+  m_originalValue: 16
+  m_checkType: 4

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e80fd87f7d8d9ce49952623c5f4d8206, type: 3}
+  m_Name: GWS_HDRPSkyReflectionSize
+  m_EditorClassIdentifier: 
+  m_foldedOut: 0
+  m_wasFixed: 0
+  m_canAutoFix: 1
+  m_ignored: 0
+  m_intValueDoesNotMatchMessage: The sky reflection is sized larger than 256 pixels.
+    This will increase the quality of the skybox in reflections, but can reduce performance
+    when no other reflection probe is rendered.
+  m_intTargetValue: 256
+  m_originalValue: 512
+  m_checkType: 3
+  m_oldSkyReflectionSize: 512

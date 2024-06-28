@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58680399239671a4c9ac33d265ca999d, type: 3}
+  m_Name: GRCControllerSupport
+  m_EditorClassIdentifier: 
+  m_unfolded: 1
+  m_isActive: 1
+  m_helpEnabled: 0
+  m_orderNumber: 100
+  m_selectedControllerType: 0
+  m_activateTouchUI: 0
+  m_addLocationSystem: 0
+  m_addAudioManager: 0
+  m_customAdjustDrawDistance: 1
+  m_customSetupPostProcessing: 1
+  m_addVFXManager: 0
+  m_customCharacter: {fileID: 0}
+  m_customCamera: {fileID: 0}

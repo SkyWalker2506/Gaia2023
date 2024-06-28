@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e251860fcd970734c9f14ebd98a146c3, type: 3}
+  m_Name: GS-20240628 - 040810
+  m_EditorClassIdentifier: 
+  m_name: Session 20240628-040810
+  m_description: 'Rocking out at Creativity Central!
+
+
+    If you like Gaia please
+    consider rating it :)'
+  m_previewImage: {fileID: 0}
+  m_dateCreated: 6/28/2024 4:08:10 AM
+  m_terrainWidth: 512
+  m_terrainDepth: 512
+  m_terrainHeight: 512
+  m_seaLevel: 12.5
+  m_spawnDensity: 0.8
+  m_isLocked: 0
+  m_previewImageBytes: 
+  m_previewImageWidth: 0
+  m_previewImageHeight: 0
+  m_operations:
+  - m_description: Clear World
+    m_operationType: 10
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 6/28/2024 4:12:37 AM
+    scriptableObjectAssetGUID: 
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Creating World: 1 x 1 tiles, tile size: 512'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20240628 - 041237
+    m_operationDateTime: 6/28/2024 4:12:37 AM
+    scriptableObjectAssetGUID: b9d576f6beafa496b870437fe3aa5ae6
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (11)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20240628 - 041237
+    m_operationDateTime: 6/28/2024 4:13:03 AM
+    scriptableObjectAssetGUID: d4397066272204ed4905240c86f20477
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  m_terrainMinMaxCache:
+  - guid: 61b20734f5d684532ab8d9a9dd5ed94f
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 84.89192
+  - guid: Worldmap
+    isWorldmap: 1
+    recalculate: 0
+    min: 0
+    max: 0
+  m_bakedMaskCacheEntries:
+  - fileName: Terrain_0_0-20240628 - 041237_LayerGameObject_14336_12
+    assetPath: Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20240628
+      - 041237/Terrain_0_0-20240628 - 041237_LayerGameObject_14336_12
+    fullPath: /Users/musabkara/Documents/Unity/Gaia2023/Assets/Procedural Worlds/Packages
+      - Install/Gaia/TerrainCollisionData/Terrain_0_0-20240628 - 041237/Terrain_0_0-20240628
+      - 041237_LayerGameObject_14336_12
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20240628 - 041237_LayerTree_14336_5
+    assetPath: Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20240628
+      - 041237/Terrain_0_0-20240628 - 041237_LayerTree_14336_5
+    fullPath: /Users/musabkara/Documents/Unity/Gaia2023/Assets/Procedural Worlds/Packages
+      - Install/Gaia/TerrainCollisionData/Terrain_0_0-20240628 - 041237/Terrain_0_0-20240628
+      - 041237_LayerTree_14336_5
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20240628 - 041237_LayerGameObject_14336_2.5
+    assetPath: Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20240628
+      - 041237/Terrain_0_0-20240628 - 041237_LayerGameObject_14336_2.5
+    fullPath: /Users/musabkara/Documents/Unity/Gaia2023/Assets/Procedural Worlds/Packages
+      - Install/Gaia/TerrainCollisionData/Terrain_0_0-20240628 - 041237/Terrain_0_0-20240628
+      - 041237_LayerGameObject_14336_2.5
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20240628 - 041237_LayerGameObject_14336_-0.5
+    assetPath: Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20240628
+      - 041237/Terrain_0_0-20240628 - 041237_LayerGameObject_14336_-0.5
+    fullPath: /Users/musabkara/Documents/Unity/Gaia2023/Assets/Procedural Worlds/Packages
+      - Install/Gaia/TerrainCollisionData/Terrain_0_0-20240628 - 041237/Terrain_0_0-20240628
+      - 041237_LayerGameObject_14336_-0.5
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20240628 - 041237_LayerGameObject_6144_2
+    assetPath: Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20240628
+      - 041237/Terrain_0_0-20240628 - 041237_LayerGameObject_6144_2
+    fullPath: /Users/musabkara/Documents/Unity/Gaia2023/Assets/Procedural Worlds/Packages
+      - Install/Gaia/TerrainCollisionData/Terrain_0_0-20240628 - 041237/Terrain_0_0-20240628
+      - 041237_LayerGameObject_6144_2
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20240628 - 041237_LayerGameObject_14336_2
+    assetPath: Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20240628
+      - 041237/Terrain_0_0-20240628 - 041237_LayerGameObject_14336_2
+    fullPath: /Users/musabkara/Documents/Unity/Gaia2023/Assets/Procedural Worlds/Packages
+      - Install/Gaia/TerrainCollisionData/Terrain_0_0-20240628 - 041237/Terrain_0_0-20240628
+      - 041237_LayerGameObject_14336_2
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20240628 - 041237_LayerTree_14336_-0.2
+    assetPath: Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20240628
+      - 041237/Terrain_0_0-20240628 - 041237_LayerTree_14336_-0.2
+    fullPath: /Users/musabkara/Documents/Unity/Gaia2023/Assets/Procedural Worlds/Packages
+      - Install/Gaia/TerrainCollisionData/Terrain_0_0-20240628 - 041237/Terrain_0_0-20240628
+      - 041237_LayerTree_14336_-0.2
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20240628 - 041237_LayerTree_14336_1
+    assetPath: Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20240628
+      - 041237/Terrain_0_0-20240628 - 041237_LayerTree_14336_1
+    fullPath: /Users/musabkara/Documents/Unity/Gaia2023/Assets/Procedural Worlds/Packages
+      - Install/Gaia/TerrainCollisionData/Terrain_0_0-20240628 - 041237/Terrain_0_0-20240628
+      - 041237_LayerTree_14336_1
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20240628 - 041237_LayerGameObject_14336_1.5
+    assetPath: Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20240628
+      - 041237/Terrain_0_0-20240628 - 041237_LayerGameObject_14336_1.5
+    fullPath: /Users/musabkara/Documents/Unity/Gaia2023/Assets/Procedural Worlds/Packages
+      - Install/Gaia/TerrainCollisionData/Terrain_0_0-20240628 - 041237/Terrain_0_0-20240628
+      - 041237_LayerGameObject_14336_1.5
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20240628 - 041237_LayerGameObject_14336_0.5
+    assetPath: Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20240628
+      - 041237/Terrain_0_0-20240628 - 041237_LayerGameObject_14336_0.5
+    fullPath: /Users/musabkara/Documents/Unity/Gaia2023/Assets/Procedural Worlds/Packages
+      - Install/Gaia/TerrainCollisionData/Terrain_0_0-20240628 - 041237/Terrain_0_0-20240628
+      - 041237_LayerGameObject_14336_0.5
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20240628 - 041237_LayerTree_4096_0
+    assetPath: Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20240628
+      - 041237/Terrain_0_0-20240628 - 041237_LayerTree_4096_0
+    fullPath: /Users/musabkara/Documents/Unity/Gaia2023/Assets/Procedural Worlds/Packages
+      - Install/Gaia/TerrainCollisionData/Terrain_0_0-20240628 - 041237/Terrain_0_0-20240628
+      - 041237_LayerTree_4096_0
+    texture: {fileID: 0}
+  - fileName: Terrain_0_0-20240628 - 041237_LayerTree_8192_0
+    assetPath: Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20240628
+      - 041237/Terrain_0_0-20240628 - 041237_LayerTree_8192_0
+    fullPath: /Users/musabkara/Documents/Unity/Gaia2023/Assets/Procedural Worlds/Packages
+      - Install/Gaia/TerrainCollisionData/Terrain_0_0-20240628 - 041237/Terrain_0_0-20240628
+      - 041237_LayerTree_8192_0
+    texture: {fileID: 0}
+  m_worldBiomeMaskSettings: {fileID: 0}

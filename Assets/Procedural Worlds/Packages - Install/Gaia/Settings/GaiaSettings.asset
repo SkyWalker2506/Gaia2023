@@ -16,7 +16,7 @@ MonoBehaviour:
   m_customPlayerObject: {fileID: 0}
   m_customPlayerCamera: {fileID: 0}
   m_instantiateCustomControllers: 0
-  m_currentSize: 3
+  m_currentSize: 2
   m_currentEnvironment: 2
   m_currentRenderer: 3
   m_currentDefaults: {fileID: 11400000, guid: 54f4fac3c7f0a1e44a45853d26c87b49, type: 2}
@@ -25,7 +25,7 @@ MonoBehaviour:
   m_createTerrainScenes: 0
   m_unloadTerrainScenes: 0
   m_floatingPointFix: 0
-  m_targeSizePreset: 3
+  m_targeSizePreset: 2
   m_creationWorkflow: 1
   m_defaultStampSpawnSettings: {fileID: 11400000, guid: 81b0e93a964e9804c9806f8bde6ba9ec, type: 2}
   m_defaultBiomeMaskSettings: {fileID: 0}

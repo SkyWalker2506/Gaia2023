@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72d413e5cabae264db6c0953e4a3a263, type: 3}
+  m_Name: GWS_HDRPSSRTransparency
+  m_EditorClassIdentifier: 
+  m_foldedOut: 0
+  m_wasFixed: 0
+  m_canAutoFix: 1
+  m_ignored: 0
+  m_boolValueDoesNotMatchMessage: Screen Space Reflections are disabled in the HD
+    Render pipeline asset - without this being enabled, transparent objects are not
+    being taken into account for SSR rendering.
+  m_boolTargetValue: 1
