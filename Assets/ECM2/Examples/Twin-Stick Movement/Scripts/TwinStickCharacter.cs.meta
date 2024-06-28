@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ac9b54624973406418996032df376cf9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Examples/Twin-Stick Movement/Scripts/TwinStickCharacter.cs
+  uploadId: 655033

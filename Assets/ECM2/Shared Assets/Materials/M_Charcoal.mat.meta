@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1726f0169b4629f4296a2e041fa41e14
+timeCreated: 1492573938
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Shared Assets/Materials/M_Charcoal.mat
+  uploadId: 655033

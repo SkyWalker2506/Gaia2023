@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: a965ea288a4c40ac9f449846c4ef9e5e
+timeCreated: 1700109612
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Walkthrough/2 - Controlling a Character/2.1 - Custom Character/Scripts/PlayerCharacter.cs
+  uploadId: 655033

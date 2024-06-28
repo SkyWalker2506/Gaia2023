@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d8cf67ee3bd62b14f9d080638c0d5d70
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Walkthrough/5 - Collision Detection and Events/5.2 - Listen
+    Character Events/Listen Character Events Example Scene.unity
+  uploadId: 655033

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c3386e23954c65749bf1a52fc9f9c469
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Shared Assets/Materials/M_Dirt.mat
+  uploadId: 655033

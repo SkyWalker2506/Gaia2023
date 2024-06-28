@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 49ae0493228344b5b3bdfc1bf5545e57
+timeCreated: 1700292768
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Examples/Glide/Scripts/PlayerController.cs
+  uploadId: 655033

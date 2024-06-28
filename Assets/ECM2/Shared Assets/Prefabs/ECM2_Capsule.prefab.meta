@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c3530160930de424d8eeabec348eba07
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Shared Assets/Prefabs/ECM2_Capsule.prefab
+  uploadId: 655033

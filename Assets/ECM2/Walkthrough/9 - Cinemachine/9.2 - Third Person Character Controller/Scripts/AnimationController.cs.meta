@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 534753bff76b634448055a0cf92222d7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Walkthrough/9 - Cinemachine/9.2 - Third Person Character
+    Controller/Scripts/AnimationController.cs
+  uploadId: 655033

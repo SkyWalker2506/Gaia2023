@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 229efc90fc94436ca2b1a73d23c044c6
+timeCreated: 1702783950
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Editor/CharacterFactoryEditor.cs
+  uploadId: 655033

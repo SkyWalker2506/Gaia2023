@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f87749751c4088647acafff6304c760d
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Walkthrough/3 - Animating a Character/3.3 - Root Motion
+    Toggle/Root Motion Toggle Example Scene.unity
+  uploadId: 655033

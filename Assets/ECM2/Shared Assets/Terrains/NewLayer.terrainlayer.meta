@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7a9c93e46688535448c9c372539f5f43
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Shared Assets/Terrains/NewLayer.terrainlayer
+  uploadId: 655033

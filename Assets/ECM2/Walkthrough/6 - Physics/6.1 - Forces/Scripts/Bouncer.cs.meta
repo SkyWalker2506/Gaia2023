@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e2f424a060a55e54fa1e050bdce93433
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Walkthrough/6 - Physics/6.1 - Forces/Scripts/Bouncer.cs
+  uploadId: 655033

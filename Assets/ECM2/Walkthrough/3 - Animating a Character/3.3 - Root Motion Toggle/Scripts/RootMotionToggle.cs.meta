@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0dff82c65b2d69948bcee99cdd3a44da
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Walkthrough/3 - Animating a Character/3.3 - Root Motion
+    Toggle/Scripts/RootMotionToggle.cs
+  uploadId: 655033

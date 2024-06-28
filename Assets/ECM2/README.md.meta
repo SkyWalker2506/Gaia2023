@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 03c378cd39c1d2846b85dc5900ef4e33
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/README.md
+  uploadId: 655033

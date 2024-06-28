@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a2aa873ee5c91c34eaede495f3291eed
+timeCreated: 1492731772
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Shared Assets/Materials/M_Capsule.mat
+  uploadId: 655033

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 581145f1d2c06534dba6801708a643c7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Shared Assets/Models/Models/Meshes/Sphere.asset
+  uploadId: 655033

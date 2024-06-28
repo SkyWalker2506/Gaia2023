@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 82f9830f2519d8847a5cd5dbb2cd0c59
+timeCreated: 1492573938
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Shared Assets/Materials/M_White.mat
+  uploadId: 655033

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 931fef3c18e6491c84e85c9053988e76
+timeCreated: 1701142457
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Walkthrough/6 - Physics/6.2 - Physics Interactions/Scripts/ApplyLandingForce.cs
+  uploadId: 655033

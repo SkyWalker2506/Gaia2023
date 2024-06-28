@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 668bc16113039a44b980a453dab2038b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Examples/First Person/Scripts/FirstPersonCharacterLookInput.cs
+  uploadId: 655033

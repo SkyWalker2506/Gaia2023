@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0b8353732406ae7418b47f5928e333c6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Source/Components/NavMeshCharacter.cs
+  uploadId: 655033

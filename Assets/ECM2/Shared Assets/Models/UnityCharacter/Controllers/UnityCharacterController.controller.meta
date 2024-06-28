@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 2b54daff9ce02d041b1700d1656b1d3c
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Shared Assets/Models/UnityCharacter/Controllers/UnityCharacterController.controller
+  uploadId: 655033

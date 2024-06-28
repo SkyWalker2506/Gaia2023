@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d7f8b496adee38e4a9edc877d5939f5b
+timeCreated: 1490634452
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Shared Assets/Models/UnityCharacter/Models/Materials/DefaultMale_Mat.mat
+  uploadId: 655033

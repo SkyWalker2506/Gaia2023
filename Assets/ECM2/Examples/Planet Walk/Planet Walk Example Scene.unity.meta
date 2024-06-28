@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5baa8109e4051dd4980b7e59de338ef3
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Examples/Planet Walk/Planet Walk Example Scene.unity
+  uploadId: 655033

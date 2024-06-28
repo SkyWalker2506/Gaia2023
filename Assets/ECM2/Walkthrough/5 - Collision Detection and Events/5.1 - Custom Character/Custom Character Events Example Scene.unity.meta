@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5ef935f2443c3ae4687c7cc025999221
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Walkthrough/5 - Collision Detection and Events/5.1 - Custom
+    Character/Custom Character Events Example Scene.unity
+  uploadId: 655033

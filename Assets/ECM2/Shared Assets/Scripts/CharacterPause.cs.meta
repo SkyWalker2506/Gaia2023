@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 957641d45695471a971ded93e92de0ba
+timeCreated: 1700616504
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Shared Assets/Scripts/CharacterPause.cs
+  uploadId: 655033

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ea505c7032d9c69478940c807b90ccaa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Shared Assets/Models/Meshes/Left_Column.asset
+  uploadId: 655033

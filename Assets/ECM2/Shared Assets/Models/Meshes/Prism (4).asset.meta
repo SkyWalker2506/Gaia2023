@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ea452961b81213f44aa2fad0d757c9ec
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Shared Assets/Models/Meshes/Prism (4).asset
+  uploadId: 655033

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 313e5d10d30479240a832b2ec610ce20
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Shared Assets/Models/Meshes/Bottom_Stairs.asset
+  uploadId: 655033

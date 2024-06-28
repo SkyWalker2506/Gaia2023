@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 357780a279e73d64f9b373214e2dcd3c
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Walkthrough/4 - Extending a Character/4.3 - Custom Movement
+    Mode/Custom Movement Mode Example Scene.unity
+  uploadId: 655033

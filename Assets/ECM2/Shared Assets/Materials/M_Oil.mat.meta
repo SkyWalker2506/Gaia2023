@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: be159a03f6d2bf845b09ce0f849f1ac8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Shared Assets/Materials/M_Oil.mat
+  uploadId: 655033

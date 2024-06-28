@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: afa5ac2ab038423c80eb527cc57edf06
+timeCreated: 1700796221
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Examples/Toggle Gravity Direction/Scripts/ToggleCharacterGravityDirection.cs
+  uploadId: 655033

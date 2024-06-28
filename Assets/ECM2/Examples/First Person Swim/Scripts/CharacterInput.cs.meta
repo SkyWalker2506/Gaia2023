@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 7fc71c746e45461a9ef578ca64972aeb
+timeCreated: 1700708118
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Examples/First Person Swim/Scripts/CharacterInput.cs
+  uploadId: 655033

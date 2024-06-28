@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a540a24f665465e49b34da62ff4b7a19
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Shared Assets/Prefabs/Prefabs/Sphere.prefab
+  uploadId: 655033

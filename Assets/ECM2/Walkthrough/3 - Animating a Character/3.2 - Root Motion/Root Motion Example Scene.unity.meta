@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4f612ffbed25c174c8516cd491a87438
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Walkthrough/3 - Animating a Character/3.2 - Root Motion/Root
+    Motion Example Scene.unity
+  uploadId: 655033

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: ddceac5c369948b4b1f56559e4d41796
+timeCreated: 1700621503
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Examples/Orient to Ground/Scripts/CharacterOrientToGround.cs
+  uploadId: 655033

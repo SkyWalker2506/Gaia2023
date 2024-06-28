@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b6503c5dd5b759f4682c6790728822ff
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Examples/Orient to Ground/Orient to Ground Example Scene.unity
+  uploadId: 655033

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ea4bc13934a49484bb0606e7a1ff4f76
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Walkthrough/4 - Extending a Character/4.2 - Character Extensions/Scripts/SprintAbility.cs
+  uploadId: 655033

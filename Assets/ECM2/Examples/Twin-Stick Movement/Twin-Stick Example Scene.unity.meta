@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 94228b9a7a74b5d40bbc185174a3a5e1
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Examples/Twin-Stick Movement/Twin-Stick Example Scene.unity
+  uploadId: 655033

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f1aa143a8bb3c344c87c7cb6fccdf1bb
+timeCreated: 1492573938
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Shared Assets/Materials/M_Aqua.mat
+  uploadId: 655033

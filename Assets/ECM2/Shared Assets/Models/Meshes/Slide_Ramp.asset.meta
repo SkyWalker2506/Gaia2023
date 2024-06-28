@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3edd45833ee5bfb4a87bfb47ba45d783
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Shared Assets/Models/Meshes/Slide_Ramp.asset
+  uploadId: 655033

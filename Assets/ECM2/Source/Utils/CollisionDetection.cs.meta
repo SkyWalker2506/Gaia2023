@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 3ea13ecaa42445519734922e43f938f2
+timeCreated: 1700619165
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Source/Utils/CollisionDetection.cs
+  uploadId: 655033

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4a7a95050e56c7e4f976c906ecd1a941
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Source/Components/PhysicsVolume.cs
+  uploadId: 655033

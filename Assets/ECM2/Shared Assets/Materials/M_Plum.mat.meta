@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f4ba88c1ea22d654dba43a03c19650c3
+timeCreated: 1492573938
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Shared Assets/Materials/M_Plum.mat
+  uploadId: 655033

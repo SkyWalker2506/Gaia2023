@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d8e22f557fff8be48a9230f99a4a6f52
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Examples/Planet Walk/Scripts/PlayerCharacter.cs
+  uploadId: 655033

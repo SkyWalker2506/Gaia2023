@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4d50e55e7f3d36d4096ad9044bf8c72c
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Examples/Toggle Gravity Direction/Toggle Gravity Direction
+    Example Scene.unity
+  uploadId: 655033

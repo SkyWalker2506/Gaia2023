@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ab476561401c4b644965e59c1c307e27
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Source/Interfaces/IColliderFilter.cs
+  uploadId: 655033

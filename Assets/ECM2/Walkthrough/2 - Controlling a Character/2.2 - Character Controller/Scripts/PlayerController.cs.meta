@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7574d9fcf01f9164bb93f16e3c044358
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Walkthrough/2 - Controlling a Character/2.2 - Character
+    Controller/Scripts/PlayerController.cs
+  uploadId: 655033

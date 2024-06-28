@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 5ef7d6f6890f479fac1591d410e31408
+timeCreated: 1700524463
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Examples/Ladders/Scripts/LadderClimbAbility.cs
+  uploadId: 655033

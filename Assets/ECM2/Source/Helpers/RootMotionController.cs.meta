@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 838519e5d02343249e0d4ddd7578cba4
+timeCreated: 1603243744
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Source/Helpers/RootMotionController.cs
+  uploadId: 655033

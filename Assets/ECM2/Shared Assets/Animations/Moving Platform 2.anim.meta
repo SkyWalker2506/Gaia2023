@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 70b147694c4c4534e93dadc819506aa0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Shared Assets/Animations/Moving Platform 2.anim
+  uploadId: 655033

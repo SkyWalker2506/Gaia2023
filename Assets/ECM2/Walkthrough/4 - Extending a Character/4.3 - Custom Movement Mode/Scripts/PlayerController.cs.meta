@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 870821bf5541ca240b0f6eebcb635f97
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Walkthrough/4 - Extending a Character/4.3 - Custom Movement
+    Mode/Scripts/PlayerController.cs
+  uploadId: 655033

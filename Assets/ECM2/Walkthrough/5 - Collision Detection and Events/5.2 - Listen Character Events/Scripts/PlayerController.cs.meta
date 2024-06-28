@@ -1,0 +1,11 @@
+﻿fileFormatVersion: 2
+guid: 4e2bc2d1320241eb8fae230508f17ce1
+timeCreated: 1700175269
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Walkthrough/5 - Collision Detection and Events/5.2 - Listen
+    Character Events/Scripts/PlayerController.cs
+  uploadId: 655033

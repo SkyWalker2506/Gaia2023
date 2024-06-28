@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d99b51084e26e9642a87a6b162e12c05
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Shared Assets/Models/Models/Meshes/Cone.asset
+  uploadId: 655033

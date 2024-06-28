@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c2d405b3de076484b8e730438877207d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Walkthrough/7 - Platforms/7.1 - Scripted Platforms/Scripts/KinematicMove.cs
+  uploadId: 655033

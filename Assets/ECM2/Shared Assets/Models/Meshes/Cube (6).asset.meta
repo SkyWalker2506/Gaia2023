@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1a9d10f1d238d8c46b7f1e5a3460cbde
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Shared Assets/Models/Meshes/Cube (6).asset
+  uploadId: 655033

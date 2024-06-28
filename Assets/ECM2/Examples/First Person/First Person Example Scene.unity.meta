@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ba11ada392fd66943aa0802367e37654
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Examples/First Person/First Person Example Scene.unity
+  uploadId: 655033

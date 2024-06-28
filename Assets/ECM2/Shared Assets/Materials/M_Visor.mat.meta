@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5115e292b3dc08b46b194d4c7f427bf8
+timeCreated: 1492731772
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Shared Assets/Materials/M_Visor.mat
+  uploadId: 655033

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1b7152958888f3248ad91e425326b2d5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Shared Assets/Prefabs/UnityCharacter.prefab
+  uploadId: 655033

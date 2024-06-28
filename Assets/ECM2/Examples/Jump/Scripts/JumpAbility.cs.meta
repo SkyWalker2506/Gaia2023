@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 06597227e58abd64eb2b11f0a43d4219
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Examples/Jump/Scripts/JumpAbility.cs
+  uploadId: 655033

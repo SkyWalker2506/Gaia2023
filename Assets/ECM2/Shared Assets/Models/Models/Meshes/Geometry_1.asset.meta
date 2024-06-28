@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d2375dd7ec096904585e7eb7d3fda60a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Shared Assets/Models/Models/Meshes/Geometry_1.asset
+  uploadId: 655033

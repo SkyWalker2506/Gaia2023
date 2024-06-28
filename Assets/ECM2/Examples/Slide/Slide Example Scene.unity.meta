@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dae9d48025e7a804ba099f0722c4ced1
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 193614
+  packageName: Easy Character Movement 2
+  packageVersion: 1.4.1
+  assetPath: Assets/ECM2/Examples/Slide/Slide Example Scene.unity
+  uploadId: 655033
