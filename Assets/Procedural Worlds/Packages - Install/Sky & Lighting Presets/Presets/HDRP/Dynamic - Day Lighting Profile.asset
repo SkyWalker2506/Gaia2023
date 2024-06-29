@@ -153,7 +153,7 @@ MonoBehaviour:
   interCascadeBorders: 1
   maxShadowDistance:
     m_OverrideState: 1
-    m_Value: 1000
+    m_Value: 100.08
   directionalTransmissionMultiplier:
     m_OverrideState: 0
     m_Value: 1
@@ -168,7 +168,7 @@ MonoBehaviour:
     m_Value: 0.125
   cascadeShadowSplit2:
     m_OverrideState: 1
-    m_Value: 0.3
+    m_Value: 0.28077537
   cascadeShadowBorder0:
     m_OverrideState: 0
     m_Value: 0.04892409
@@ -780,10 +780,10 @@ MonoBehaviour:
     m_OverrideState: 0
     m_Value: 0
   microErosionFactor:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 0.5
   microErosionScale:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 200
   ambientLightProbeDimmer:
     m_OverrideState: 0
