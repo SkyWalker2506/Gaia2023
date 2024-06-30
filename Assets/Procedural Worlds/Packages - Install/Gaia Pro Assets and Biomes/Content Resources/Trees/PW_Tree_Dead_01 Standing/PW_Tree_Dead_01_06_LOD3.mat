@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: da692e001514ec24dbc4cca1949ff7e8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  version: 11
+  version: 13
   hdPluginSubTargetMaterialVersions:
     m_Keys: []
     m_Values: 
@@ -31,21 +31,24 @@ Material:
   - _ALPHATEST_ON
   - _DISABLE_DECALS
   - _DISABLE_SSR_TRANSPARENT
-  - _DOUBLESIDED_ON
+  - _MATERIAL_FEATURE_TRANSMISSION
   - _PW_SF_BILLBOARD_ON
   - _PW_SF_COVER_ON
   - _PW_SF_WIND_ON
   m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 1
-  m_DoubleSidedGI: 1
-  m_CustomRenderQueue: -1
-  stringTagMap: {}
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2450
+  stringTagMap:
+    MotionVector: User
+    RenderType: TransparentCutout
   disabledShaderPasses:
   - TransparentDepthPrepass
   - TransparentDepthPostpass
   - TransparentBackface
   - RayTracingPrepass
+  - MOTIONVECTORS
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
@@ -111,7 +114,7 @@ Material:
     - _BumpMapScale: 1
     - _ConservativeDepthOffsetEnable: 0
     - _CullMode: 2
-    - _CullModeForward: 0
+    - _CullModeForward: 2
     - _Cutoff: 0.2
     - _DepthOffsetEnable: 0
     - _DiffusionProfile: 2.2732565
@@ -127,6 +130,7 @@ Material:
     - _MaterialID: 5
     - _MaterialTypeMask: 32
     - _Metallic: 0
+    - _NatureRendererInstancing: 1
     - _OpaqueCullMode: 2
     - _PW_Cover: 0
     - _PW_CoverLayer0AlphaClamp: 1
@@ -184,10 +188,10 @@ Material:
     - _StencilRefGBuffer: 10
     - _StencilRefMV: 40
     - _StencilWriteMask: 6
-    - _StencilWriteMaskDepth: 8
+    - _StencilWriteMaskDepth: 9
     - _StencilWriteMaskDistortionVec: 4
-    - _StencilWriteMaskGBuffer: 14
-    - _StencilWriteMaskMV: 40
+    - _StencilWriteMaskGBuffer: 15
+    - _StencilWriteMaskMV: 41
     - _SupportDecals: 0
     - _SurfaceType: 0
     - _TransmissionEnable: 1

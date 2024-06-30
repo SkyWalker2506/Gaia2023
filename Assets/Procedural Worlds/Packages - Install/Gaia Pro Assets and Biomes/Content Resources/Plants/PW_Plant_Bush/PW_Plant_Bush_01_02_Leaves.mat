@@ -16,6 +16,7 @@ Material:
   - _DISABLE_DECALS
   - _DISABLE_SSR_TRANSPARENT
   - _DOUBLESIDED_ON
+  - _MATERIAL_FEATURE_TRANSMISSION
   - _PW_SF_COVER_ON
   - _PW_SF_SSS_ON
   - _PW_SF_WIND_ON
@@ -24,13 +25,16 @@ Material:
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 1
-  m_CustomRenderQueue: -1
-  stringTagMap: {}
+  m_CustomRenderQueue: 2450
+  stringTagMap:
+    MotionVector: User
+    RenderType: TransparentCutout
   disabledShaderPasses:
   - TransparentDepthPrepass
   - TransparentDepthPostpass
   - TransparentBackface
   - RayTracingPrepass
+  - MOTIONVECTORS
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
@@ -112,6 +116,7 @@ Material:
     - _MaterialID: 5
     - _MaterialTypeMask: 32
     - _Metallic: 0
+    - _NatureRendererInstancing: 1
     - _OpaqueCullMode: 2
     - _PW_Cover: 0
     - _PW_CoverLayer0AlphaClamp: 1
@@ -169,10 +174,10 @@ Material:
     - _StencilRefGBuffer: 10
     - _StencilRefMV: 40
     - _StencilWriteMask: 6
-    - _StencilWriteMaskDepth: 8
+    - _StencilWriteMaskDepth: 9
     - _StencilWriteMaskDistortionVec: 4
-    - _StencilWriteMaskGBuffer: 14
-    - _StencilWriteMaskMV: 40
+    - _StencilWriteMaskGBuffer: 15
+    - _StencilWriteMaskMV: 41
     - _SupportDecals: 0
     - _SurfaceType: 0
     - _TransmissionEnable: 1
@@ -192,7 +197,7 @@ Material:
     m_Colors:
     - _Color: {r: 0.946941, g: 1.319508, b: 0.9158938, a: 1}
     - _DiffusionProfile_Asset: {r: -9.2396434e+33, g: 2.6337685e-36, b: 2.14897e-38, a: 6.8169325e-31}
-    - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 1}
+    - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _PW_CoverLayer0Color: {r: 1, g: 1, b: 1, a: 1}
     - _PW_CoverLayer1Color: {r: 0.7490196, g: 0.7490196, b: 0.7490196, a: 1}
@@ -217,7 +222,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: da692e001514ec24dbc4cca1949ff7e8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  version: 11
+  version: 13
   hdPluginSubTargetMaterialVersions:
     m_Keys: []
     m_Values: 
